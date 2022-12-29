@@ -89,4 +89,14 @@
 			</plugin>
 		</plugins>
 	</build>
+	<scm>
+		<developerConnection>scm:git:ssh://git@github.com/ankallio/mattermost-services-support.git</developerConnection>
+	</scm>
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub ankallio Apache Maven Packages</name>
+			<url>https://maven.pkg.github.com/ankallio/mattermost-services-support</url>
+		</repository>
+	</distributionManagement>
 </project>
