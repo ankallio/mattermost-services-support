@@ -1,11 +1,5 @@
 # mattermost-services-support Project
 
-## Install locally before using in other projects
-
-```shell script
-./mvnw install
-```
-
 ## Use on other Quarkus projects
 
 Include as dependency:
