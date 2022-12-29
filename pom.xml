@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>io.kall</groupId>
 	<artifactId>mattermost-services-support</artifactId>
-	<version>1.0.1-SNAPSHOT</version>
+	<version>1.0.1</version>
 	<properties>
 		<compiler-plugin.version>3.10.1</compiler-plugin.version>
 		<maven.compiler.release>17</maven.compiler.release>
@@ -90,7 +90,7 @@
 	</build>
 	<scm>
 		<developerConnection>scm:git:ssh://git@github.com/ankallio/mattermost-services-support.git</developerConnection>
-	  <tag>HEAD</tag>
+	  <tag>mattermost-services-support-1.0.1</tag>
   </scm>
 	<distributionManagement>
 		<repository>
